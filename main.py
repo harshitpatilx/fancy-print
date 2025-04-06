@@ -13,6 +13,6 @@ def prinj(string):
                 bk+=rn
                 break
 
-a = input(" Enter")
+a = input("Enter ")
 prinj(a)
 time.sleep(5)
